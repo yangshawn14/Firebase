@@ -8,7 +8,7 @@ In this code, the code stores the user's input of coordinates on a Sudoku board.
 
 Here is a video demo:
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/QVjn0qv1Khw)
 
 # Cloud Database
 
